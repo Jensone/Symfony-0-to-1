@@ -28,7 +28,7 @@ Affiche tous les articles publiés, classé par date de publication la plus réc
 
 Il doit être possible de se rendre sur la page d'un article en cliquant dessus.
 
-Les articles prémium doivent être affichés parmi les autres articles, en ayant un élément graphique qui les différencie.
+Les articles premium doivent être affichés parmi les autres articles, en ayant un élément graphique qui les différencie.
 
 ---
 
@@ -55,7 +55,7 @@ Créez un espace d'administration pour gérer les projets. Pour cela vous allez 
 - Les liens doivent être fonctionnels et dynamiques dans les templates twig
 - Les pages doivent être "découpées" en "partials" twig **si besoin**
 - Modifier le fichier .env pour connecter votre base de données
-- Réaliser un commit à chaque modifications importantes de votre projet
+- Réaliser un commit à chaque modification importante de votre projet
 
 ---
 
@@ -63,7 +63,7 @@ Créez un espace d'administration pour gérer les projets. Pour cela vous allez 
 
 ### Page d'abonnement
 
-Préssente l'offre prémium à 1€ par mois.
+Présente l'offre prémium à 1€ par mois.
 
 Un bouton de paiement avec Stripe.
 
