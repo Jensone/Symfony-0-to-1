@@ -38,7 +38,7 @@ Affiche le titre, le contenu, la date de publication et l'auteur de l'article, e
 
 ---
 
-# #Important :
+# Important :
 
 Le design est faculltatif, utiliser bootstrap pour aller plus vite.
 
@@ -47,7 +47,7 @@ Avec AppFixtures, ajoutez 50 articles en base de données.
 ---
 ### Espace d'administration (Pour aller plus loin)
 
-Créez un espace d'administration pour gérer les projets. Pour cela vous allez utiliser le bundle [EasyAdminBundle](https://symfony.com/doc/current/bundles/EasyAdminBundle/index.html).
+Créez un espace d'administration pour gérer les articles. Pour cela vous allez utiliser le bundle [EasyAdminBundle](https://symfony.com/doc/current/bundles/EasyAdminBundle/index.html).
 
 ---
 ## Rappels importants
