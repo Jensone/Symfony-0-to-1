@@ -12,33 +12,33 @@ Votre mission du jour consiste à réaliser une mini blog.
 
 ### Page d'accueil
 
-Affiche les 6 derniers articles publiés, classé par date de publication la plus récente en premier.
+- [x] Affiche les 6 derniers articles publiés, classé par date de publication la plus récente en premier.
 
-Un encart ou carte d'invitation à s'inscrire à la newsletter.
+- [x] Un encart ou carte d'invitation à s'inscrire à la newsletter.
 
-Un appel à l'action pour aller sur la page des articles.
+- [x] Un appel à l'action pour aller sur la page des articles.
 
-Un appel à l'action pour devenir membre premium.
+- [x] Un appel à l'action pour devenir membre premium.
 
 ---
 
 ### Page des articles
 
-Affiche tous les articles publiés, classé par date de publication la plus récente en premier.
+- [x] Affiche tous les articles publiés, classé par date de publication la plus récente en premier.
 
-Il doit être possible de se rendre sur la page d'un article en cliquant dessus.
+- [x] Il doit être possible de se rendre sur la page d'un article en cliquant dessus.
 
-Les articles premium doivent être affichés parmi les autres articles, en ayant un élément graphique qui les différencie.
+- [x] Les articles premium doivent être affichés parmi les autres articles, en ayant un élément graphique qui les différencie.
 
 ---
 
 ### Page d'un article
 
-Affiche le titre, le contenu, la date de publication et l'auteur de l'article, etc.
+- [x] Affiche le titre, le contenu, la date de publication et l'auteur de l'article, etc.
 
 ---
 
-# #Important :
+# Important :
 
 Le design est faculltatif, utiliser bootstrap pour aller plus vite.
 
